@@ -14,5 +14,8 @@
 function mtpk_install() {
   include_once(DRUPAL_ROOT . '/profiles/minimal/minimal.install');
   minimal_install();
+  theme_enable(array('fold'));
+  variable_set('theme_default','fold');
+  theme_disable(array('bartik'));
 }
 
