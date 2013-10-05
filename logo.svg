@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs4">
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="250"
+       height="250"
+       patternTransform="translate(152.14285,181.64792)"
+       id="pattern3050">
+      <image
+         width="250"
+         height="250"
+         xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAD6APoDASIA AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3 ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3 uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDyUY46 dqOPb8qOpo49KYg7H2FHHt3oOaO+frQAce3T0o96KOc0AHbt0o4/yP8A61A/pRQAGg456f5/CjnJ o7H60AHHX39P/rUUvak55FABxx0/KgcY+n+e1Hpx3oHQUAHf/GkOPbp6f/WpeTR26dqADuR/T/61 Hr/Wg98e9FABxnt+VA/z/nFL36Uh9qAAfhScZ7flS9SKOPSgA7fQUce3Wg0d/wA6AE/L8v8A61L7 +9H4UZ5oAO3bpRx/kf8A1qB/SloAQ+tBx7Uc0etABx19/T/61GP8/wCRRQetAB6f/WooBxR+JoAO uOD0oo7HrRn39elAB0J/pR1J4NA57migAH1/P60g/wA4pc8dT0o/E0AGPrR+P+cUHpmgnryaAD/P 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 "
+         id="image3047"
+         x="0"
+         y="0" />
+    </pattern>
+    <filter
+       id="filter3343"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3345"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3347"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3349"
+         in="composite"
+         stdDeviation="0.5"
+         result="blur" />
+      <feOffset
+         id="feOffset3351"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite3353"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter3355"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood3357"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3359"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3361"
+         in="composite"
+         stdDeviation="0.5"
+         result="blur" />
+      <feOffset
+         id="feOffset3363"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite3365"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="647.23427"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1362"
+     inkscape:window-height="745"
+     inkscape:window-x="0"
+     inkscape:window-y="19"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="background"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:url(#pattern3050);fill-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       id="rect3055"
+       width="677.14288"
+       height="980"
+       x="45.714287"
+       y="40.933613" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a0a0a0;fill-opacity:1;stroke:none;font-family:FreshMaker;-inkscape-font-specification:FreshMaker"
+       x="69.647202"
+       y="289.44217"
+       id="text4541-7"
+       sodipodi:linespacing="80.000001%"><tspan
+         sodipodi:role="line"
+         id="tspan4543-2"
+         x="69.647202"
+         y="289.44217">MT</tspan><tspan
+         sodipodi:role="line"
+         x="69.647202"
+         y="313.44217"
+         id="tspan4545-2">PK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#9e9e9e;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       x="107.14467"
+       y="289.39139"
+       id="text4547-7"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4549-6"
+         x="107.14467"
+         y="289.39139">Multidiszciplináris Társaság</tspan><tspan
+         sodipodi:role="line"
+         x="107.14467"
+         y="313.39139"
+         id="tspan4551-1">a Pszichedelikumok Kutatásáért</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a0a0a0;fill-opacity:1;stroke:none;font-family:Strenuous;-inkscape-font-specification:Strenuous Heavy"
+       x="68.647202"
+       y="370.44217"
+       id="text4541-2"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4543-7"
+         x="68.647202"
+         y="370.44217">MT</tspan><tspan
+         sodipodi:role="line"
+         x="68.647202"
+         y="394.44217"
+         id="tspan4545-1">PK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#9e9e9e;fill-opacity:1;stroke:none;font-family:Interlude;-inkscape-font-specification:Interlude"
+       x="110.14468"
+       y="371.39139"
+       id="text4547-1"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4549-7"
+         x="110.14468"
+         y="371.39139">Multidiszciplináris Társaság</tspan><tspan
+         sodipodi:role="line"
+         x="110.14468"
+         y="395.39139"
+         id="tspan4551-6">a Pszichedelikumok Kutatásáért</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a0a0a0;fill-opacity:1;stroke:none;display:inline;font-family:Sticky Things;-inkscape-font-specification:Sticky Things"
+       x="76.51123"
+       y="458.09299"
+       id="text4541-2-0"
+       sodipodi:linespacing="80.000001%"><tspan
+         sodipodi:role="line"
+         id="tspan4543-7-1"
+         x="76.51123"
+         y="458.09299">MT</tspan><tspan
+         sodipodi:role="line"
+         x="76.51123"
+         y="482.09299"
+         id="tspan4545-1-8">PK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#9e9e9e;fill-opacity:1;stroke:none;display:inline;font-family:Straightforward;-inkscape-font-specification:Straightforward"
+       x="108.0087"
+       y="453.04221"
+       id="text4547-1-4"
+       sodipodi:linespacing="120%"><tspan
+         sodipodi:role="line"
+         id="tspan4549-7-6"
+         x="108.0087"
+         y="453.04221">Multidiszciplináris Társaság</tspan><tspan
+         sodipodi:role="line"
+         x="108.0087"
+         y="473.04221"
+         id="tspan4551-6-1">a Pszichedelikumok Kutatásáért</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:70%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#a0a0a0;fill-opacity:1;stroke:none;display:inline;font-family:Sticky Things;-inkscape-font-specification:Sticky Things;filter:url(#filter3355)"
+       x="71.391891"
+       y="536.84705"
+       id="text4541-2-0-3"
+       sodipodi:linespacing="70%"
+       inkscape:export-filename="/home/rb/projects/mtpk/logo1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4543-7-1-2"
+         x="71.391891"
+         y="536.84705">MT</tspan><tspan
+         sodipodi:role="line"
+         x="71.391891"
+         y="560.84705"
+         id="tspan4545-1-8-0">PK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#9e9e9e;fill-opacity:1;stroke:none;display:inline;font-family:vtks giz;-inkscape-font-specification:vtks giz;filter:url(#filter3343)"
+       x="102.88936"
+       y="531.79626"
+       id="text4547-1-4-3"
+       sodipodi:linespacing="120%"
+       inkscape:export-filename="/home/rb/projects/mtpk/logo1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4549-7-6-1"
+         x="102.88936"
+         y="531.79626">Multidiszciplináris Társaság</tspan><tspan
+         sodipodi:role="line"
+         x="102.88936"
+         y="555.79626"
+         id="tspan4551-6-1-4">a Pszichedelikumok Kutatásáért</tspan></text>
+  </g>
+</svg>

@@ -1,6 +1,2 @@
 enable clean URLs: admin/config/search/clean-urls
 
-http://dev.pszichedelikumok.hu/admin/appearance
-
-enable and set as default: fold
-
