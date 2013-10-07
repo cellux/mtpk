@@ -1,2 +1,189 @@
 enable clean URLs: admin/config/search/clean-urls
 
+----- <sitemap> -----
+
+főoldal: http://www.pszichedelikumok.hu/
+  hírek: rendezvények
+
+http://pszichedelikumok.hu/* -> http://www.pszichedelikumok.hu/* (301)
+
+a társaságról:
+  a társaság adatai (levelezési cím, e-mail cím)
+  elnökség (elnök, alelnök, elnökségi tagok), tanácsadó testület
+  tagdíj információk
+  link a jelentkezési űrlapra
+
+jelentkezési űrlap (/jelentkezes): Felvételi kérelem a Társaságba
+  személyes információk
+    név
+    e-mail cím
+    cím
+    telefonszám
+    születési idő
+    legmagasabb iskolai végzettség
+  munkahely
+    munkahely neve
+    beosztás
+  ajánlók
+    első tag neve
+    második tag neve
+  tagdíj
+    kedvezmény: nincs (5000 HUF/év), diák (2500 HUF/év), nyugdíjas (2500 HUF/év)
+
+alapszabály:
+  a társaság céljai, alapelvei és tevékenysége
+
+cikkek és publikációk (lista)
+  Szummer Csaba: Az LSD és a transzcendens élmények
+
+kapcsolat: (contact modullal)
+  saját név
+  e-mail cím
+  tárgy
+  kategória: konferencia, információ
+  üzenet
+  [ ] másolatot kérek
+
+támogatás: ?
+
+linkek:
+  MAPS
+  Daath
+  Drogriporter
+
+külső források RSS feed-jei:
+  Drogriporter
+
+follow:
+  facebook: pszichedelikum
+  twitter: pszichedelikum
+  youtube: pszichedelikum
+
+belső hírek
+
+keresés
+
+számláló
+  összes oldalletöltés
+  egyedi látogatók
+  részletes statisztika (link)
+
+impresszum
+  szerkesztő (site@pszichedelikumok.hu)
+  statisztika
+  webmail
+
+----- </sitemap> -----
+
+meta keywords: mtpk, multidiszciplináris társaság a pszichedelikumok kutatásáért, pszichedelikumok
+
+tartalmak:
+  írás
+    20101029/alakulo-ules
+    20101209/mpt-20.-jubileumi-nagygyules
+    20110301/konferencia-ajanlo-elitmed
+    20101114/fenomenologiai-kognitiv-szeminarium
+    20110123/pszichedelikumok-a-21.-szazad-terapiajaban-es-kulturajaban
+    20120410/pszichedelikumok-a-pszinapszison
+    20130117/az-mtpk-tagjainak-tudomanyos-szakmai-es-ismeretterjeszto-tevekenysege-2011-2012
+  oldal
+    tarsasag
+    celok
+    cikkek
+  űrlap
+    jelentkezes
+    20110129/jelentkezes-konferenciara
+  belső hír
+    20110103/a-kovetkezo-talalkozo
+    20130829/pszichedelikus-kerekasztal
+
+pathauto: ${content_type}/${YYYY}${MM}${DD}/${title}
+vagy simán: ${YYYY}${MM}${DD}/${title} ?
+
+formats:
+  Filtered HTML
+  Full HTML
+  Filtered HTML + BBCode
+  Full HTML + BBCode
+  markdown ?
+
+----
+
+belső hírek
+-----------
+
+a belső hírek legyenek sima oldalak/írások, csak legyen rajtuk egy flag, hogy csak tagok láthatják
+
+legyen egy külön view, ami e flag alapján szűrve jeleníti meg a belső híreket
+
+a sima főoldalon - ha tag vagy - ezeket is látod, egyébként csak a publikum számára elérhetőeket
+
+taxonómia? jelenleg egy címkézési lehetőség van: "hír"
+
+blokkok
+-------
+
+superfish menu:
+  elsődleges hivatkozások
+sidebar left:
+  belépés
+  navigáció
+  fb like box
+  counter
+sidebar right:
+  menü
+  linkek
+  event
+  follow us
+  keresés űrlap
+
+menük
+-----
+
+elsődleges hivatkozások
+  Főoldal
+  A Társaságról
+  Alapszabály
+  Támogatás
+  Cikkek
+  Kapcsolat
+  Belső Hírek
+linkek
+  MAPS
+  Daath
+  Drogriporter
+  TASZ (tiltott)
+
+modulok
+-------
+
+content access
+pathauto
+token
+fb social plugins
+  fb social like
+  fb social like box
+bbcode
+menu per role
+nodewords
+  basic meta tags
+captcha
+counter
+google analytics
+webform
+xml sitemap
+
+facebook
+--------
+
+fb app id: 135143079882495
+
+google analytics
+----------------
+
+web property id: UA-21208930-4
+
+profil
+------
+
+a felhasználói profilhoz hozzá van adva egy "Név" mező (profile_name)
