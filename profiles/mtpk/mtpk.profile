@@ -23,6 +23,17 @@ function mtpk_form_install_configure_form_alter(&$form, $form_state) {
   $form['server_settings']['date_default_timezone']['#attributes']['class'] = $classes;
 }
 
+// see comments on https://drupal.org/node/1153646https://drupal.org/node/1153646
+// for a description of this trick
+function system_form_install_settings_form_alter(&$form, $form_state) {
+  $form['driver']['#default_value'] = 'mysql';
+  $form['settings']['mysql']['database']['#default_value'] = 'mtpk';
+  $form['settings']['mysql']['username']['#default_value'] = 'mtpk';
+  //$form['settings']['mysql']['password']['#default_value'] = 'mtpk';
+  $form['settings']['mysql']['advanced_options']['host']['#default_value'] = 'localhost';
+  $form['settings']['mysql']['advanced_options']['db_prefix']['#default_value'] = 'mtpk_';
+}
+
 function mtpk_profile_details() {
   return array(
     'language' => 'hu',
